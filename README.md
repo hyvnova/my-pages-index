@@ -13,6 +13,6 @@ Indexer of All pages I have done.
 
 6. [File Host (Concept)](https://FileHost.hendrick-nova.repl.co) A primitive public file host. Was the idea which later impulsed the creation of `NoVa Cloud`
 
-7. [Nova Cloud First Desing (Concept - Unfinish - Abandoned)](https://ezsnova.github.io/NovaCloud-old-desing/) The first desing idea of a File Cloud, one of my first websites. 
+7. [Nova Cloud First Desing (Concept)](https://ezsnova.github.io/NovaCloud-old-desing/) The first desing idea of a File Cloud, one of my first websites. 
 
 8. [Rythme Highlighter](https://ezsnova.github.io/RythmeHighlight/) Tries to highlight rythmes as you write. One of my first webpages.
